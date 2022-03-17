@@ -1,6 +1,6 @@
 {
   "name": "@cldcvr/vite-plugin-vue2",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "description": "Vite plugin for Vue2",
   "main": "dist/index.js",
   "scripts": {
