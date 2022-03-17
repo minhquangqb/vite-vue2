@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-vue2",
+  "name": "@cldcvr/vite-plugin-vue2",
   "version": "1.9.3",
   "description": "Vite plugin for Vue2",
   "main": "dist/index.js",
@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/underfin/vite-plugin-vue2"
+    "url": "git+https://github.com/NikhilVerma/vite-vue2"
   },
   "bugs": {
-    "url": "https://github.com/underfin/vite-plugin-vue2/issues"
+    "url": "https://github.com/NikhilVerma/vite-vue2/issues"
   },
-  "homepage": "https://github.com/underfin/vite-plugin-vue2/tree/master/#readme",
+  "homepage": "https://github.com/NikhilVerma/vite-vue2/tree/master/#readme",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
