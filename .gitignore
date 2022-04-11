@@ -1,7 +1,7 @@
 node_modules
 .DS_Store
-dist
 *.local
 yarn-error.log
 .idea/
 .history/
+yarn.lock
